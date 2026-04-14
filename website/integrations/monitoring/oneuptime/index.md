@@ -96,4 +96,3 @@ To confirm that authentik is properly configured with OneUptime, log out of OneU
 ## Resources
 
 - [OneUptime SSO documentation](https://github.com/OneUptime/oneuptime/blob/master/App/FeatureSet/Docs/Content/identity/sso.md)
-- [authentik SAML Provider Documentation](https://docs.goauthentik.io/docs/add-secure-apps/providers/saml/)
